@@ -4,11 +4,11 @@
 
 >  How to build a full-stack web application using Spring boot as backend and Angular as frontend.
 
->>  \* **Autor Ramesh Fadatare en youtube**\*
+>>  \* **Autor Ramesh Fadatare in youtube**\*
 
 # 📚Course Contents 📚
 
->* Project Overview 
+> * Project Overview 
 * Project Architecture and Development Process 
 * Creating Spring Boot Project  and MySQL Config
 * Creating JPA Entity and JPA Repository 
